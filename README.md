@@ -1,3 +1,7 @@
+# React ChatBot
+
+Created a chatbot that is like an interactive CV using React and react-chatbot-kit package.
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
