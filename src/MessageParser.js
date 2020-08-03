@@ -1,4 +1,4 @@
-let greetings = ["hello", "hi", "good morning", "good evening", "good afternoon", "morning", "hey", "yo", "salutations", "options", "help"]
+let greetings = ["hello", "hi", "good morning", "good evening", "good afternoon", "morning", "hey", "yo", "salutations", "options", "help", "back"]
 
 // MessageParser starter code
 class MessageParser {
